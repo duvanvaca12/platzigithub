@@ -5,6 +5,4 @@ de ejemplo
 
 Mi nombre es cesar y estoy estudiando en Australia
 
-La universidad se llama QUT y estoy muy feliz de estudiar en ella
-
-Hoy hablaremos de mi vida y obra maestra
+Tomorrow we will focus on git
